@@ -1,0 +1,18 @@
+{
+  "name": "zeus-validator",
+  "version": "1.0.0",
+  "description": "validator that comes easy",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "engines": {
+    "node": ">=4.2.4"
+  },
+  "author": "Zeus",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.1.1",
+    "mocha": "^3.5.0"
+  }
+}
